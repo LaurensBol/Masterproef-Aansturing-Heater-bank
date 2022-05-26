@@ -1,0 +1,10 @@
+C:\Users\Asentaja\Documents\Programming\C#2008\K8061DemoVC#_2008\K8061Demo\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Asentaja\Documents\Programming\C#2008\K8061DemoVC#_2008\K8061Demo\obj\Debug\K8061Demo.Form1.resources
+C:\Users\Asentaja\Documents\Programming\C#2008\K8061DemoVC#_2008\K8061Demo\obj\Debug\K8061Demo.Properties.Resources.resources
+C:\Users\Asentaja\Documents\Programming\C#2008\K8061DemoVC#_2008\K8061Demo\obj\Debug\K8061Demo.csproj.GenerateResource.Cache
+C:\Users\Asentaja\Documents\Programming\C#2008\K8061DemoVC#_2008\K8061Demo\bin\Debug\K8061Demo.exe
+C:\Users\Asentaja\Documents\Programming\C#2008\K8061DemoVC#_2008\K8061Demo\bin\Debug\K8061Demo.pdb
+C:\Users\Asentaja\Documents\Programming\C#2008\K8061DemoVC#_2008\K8061Demo\obj\Debug\K8061Demo.exe
+C:\Users\Asentaja\Documents\Programming\C#2008\K8061DemoVC#_2008\K8061Demo\obj\Debug\K8061Demo.pdb
+D:\Users\Asentaja\Documents\Programming\C#2008\K8061DemoVC#_2008\K8061Demo\obj\Debug\K8061Demo.exe
+D:\Users\Asentaja\Documents\Programming\C#2008\K8061DemoVC#_2008\K8061Demo\obj\Debug\K8061Demo.pdb
